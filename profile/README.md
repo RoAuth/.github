@@ -15,10 +15,5 @@ This org will be a (small) reference point for any and all libraries or plugins 
 ## JavaScript
  - [M] [passport-roblox](https://github.com/tovyblox/passport-roblox) ([NPM](https://www.npmjs.com/package/passport-roblox))
  
-## Python 
- - None
-
-## Other Libraries
- - None
-
 # Application Plugins/Integrations
+ - [POC] ["I made oauth beta link to my discourse instance"](https://devforum.roblox.com/t/i-made-oauth-beta-link-to-my-discourse-instance/1946128)
