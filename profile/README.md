@@ -6,13 +6,14 @@ This org will be a (small) reference point for any and all libraries used for th
  - POC = Proof Of Concept
  - UF = Unfinished
  - UM = Unmaintained
+ - M = Maintained
 
 # Roblox Libraries
 ## Java
  - [POC] [RoAuth-Java](https://github.com/RoAuth/RoAuth-Java) 
  
 ## JavaScript
- - None
+ - [M] [passport-roblox](https://github.com/tovyblox/passport-roblox) ([NPM](https://www.npmjs.com/package/passport-roblox))
  
 ## Python 
  - None
