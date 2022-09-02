@@ -1,10 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
+This org will be a (small) reference point for any and all libraries used for the Roblox OAUTH2 Beta and future libraries that will be used across the roblox infrastructure. If you'd like your OAUTH2 client mentioned here, send a DM to `Stefano#7366` on Discord, `superstefano4` on roblox, or contact me on `stefano@stefanocoding.me`.
 
-**Here are some ideas to get you started:**
+# Legend/Marginal Note 
+ - POC = Proof Of Concept
+ - UF = Unfinished
+ - UM = Unmaintained
 
-🙋‍♀️ A short introduction - what is your organization all about?  
-🌈 Contribution guidelines - how can the community get involved?  
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?  
-🍿 Fun facts - what does your team eat for breakfast?  
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
+# Roblox Libraries
+## Java
+ - [POC] [RoAuth-Java](https://github.com/RoAuth/RoAuth-Java) 
+ 
+## JavaScript
+ - None
+ 
+## Python 
+ - None
+
+## Other Libraries
+ - None
